@@ -12,9 +12,9 @@ Feel free to adjust the description as needed.
 
 ## Table of Contents
 
-[Section 1: Technical Skills](https://github.com/alexkirillovtech/email-crm-marketing-interview/blob/main/README.md#section-1-technical-skills)
-[Section 2: Campaign Management](https://github.com/alexkirillovtech/email-crm-marketing-interview/blob/main/README.md#section-2-campaign-management)
-Section 3: Technical Tools and Troubleshooting
+- [Section 1: Technical Skills](https://github.com/alexkirillovtech/email-crm-marketing-interview/blob/main/README.md#section-1-technical-skills)
+- [Section 2: Campaign Management](https://github.com/alexkirillovtech/email-crm-marketing-interview/blob/main/README.md#section-2-campaign-management)
+- [Section 3: Technical Tools and Troubleshooting](https://github.com/alexkirillovtech/email-crm-marketing-interview/blob/main/README.md#section-3-technical-tools-and-troubleshooting)
 Section 4: Collaboration and Stakeholder Management
 
 ## Section 1: Technical Skills
